@@ -17,7 +17,6 @@ git commit -m "Messaggio del commit qui"
 
 ## Caricare i Cambiamenti su GitHub
 ```bash
-Copy code
 git push origin main
 ```
 
